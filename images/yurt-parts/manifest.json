@@ -1,0 +1,462 @@
+[
+ {
+  "file": "images/yurt-parts/kerege.webp",
+  "partId": "kerege",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/kerege-koz.webp",
+  "partId": "kerege_koz",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_kerege_koz"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/kerege-bas.webp",
+  "partId": "kerege_bas",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_kerege_bas"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/saganak.webp",
+  "partId": "saganak",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/kok-joint.webp",
+  "partId": "kok",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_kok_joint"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/uyq-full.webp",
+  "partId": "uyq",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/uyq-alakany.webp",
+  "partId": "uyq_alakany",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_uyq_001_alakany"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/uyq-iyigi.webp",
+  "partId": "uyq_iyigi",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_uyq_001_iyigi"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/uyq-qalamy.webp",
+  "partId": "uyq_qalamy",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_uyq_001_qalamy"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/shanyraq.webp",
+  "partId": "shanyraq",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/shanyraq-togyn.webp",
+  "partId": "shanyraq_togyn",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_shanyraq_togyn"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/shanyraq-kozi.webp",
+  "partId": "shanyraq_kozi",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_shanyraq_kozi"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/kuldeuish.webp",
+  "partId": "kuldeuish",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_kuldeuish_01",
+   "KY_kuldeuish_02",
+   "KY_kuldeuish_03",
+   "KY_kuldeuish_04",
+   "KY_kuldeuish_05",
+   "KY_kuldeuish_06"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/syqyrlauyq.webp",
+  "partId": "syqyrlauyq",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_syqyrlauyq_L",
+   "KY_syqyrlauyq_R"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/bosaga.webp",
+  "partId": "esik_bosaga",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_esik_bosaga_L",
+   "KY_esik_bosaga_R"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/mandaysha.webp",
+  "partId": "esik_mandaysha",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_esik_mandaysha"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/tabaldyryq.webp",
+  "partId": "esik_tabaldyryq",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_esik_tabaldyryq"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/esik-topsa.webp",
+  "partId": "esik_topsa",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_esik_topsa"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/bakan.webp",
+  "partId": "bakan",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/shi.webp",
+  "partId": "shi",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/shym-shi.webp",
+  "partId": "shym_shi",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/orauysh.webp",
+  "partId": "orauysh",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_orauysh"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/tuyrlyq.webp",
+  "partId": "tuyrlyq",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/uzik.webp",
+  "partId": "uzik",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/tundik.webp",
+  "partId": "tundik",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/kiiz-esik.webp",
+  "partId": "kiiz_esik",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/basqur.webp",
+  "partId": "basqur",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_basqur"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/qur.webp",
+  "partId": "qur",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_qur"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/keregebau.webp",
+  "partId": "kerege_bau",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_keregebau"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/uyqbau.webp",
+  "partId": "uyq_bau",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_uyqbau"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/shanyraqbau.webp",
+  "partId": "shanyraq_bau",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_shanyraqbau"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/zhelbau.webp",
+  "partId": "zhelbau",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_zhelbau_01",
+   "KY_zhelbau_02"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/beldeubau.webp",
+  "partId": "beldeubau",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_beldeubau"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/tuyrlyqbau.webp",
+  "partId": "tuyrlyq_bau",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_tuyrlyq_bau"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/uzikbau.webp",
+  "partId": "uzik_bau",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_uzik_bau"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/tundikbau.webp",
+  "partId": "tundik_bau",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_tundik_bau"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/tangysh.webp",
+  "partId": "tangysh",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [
+   "KY_tangysh"
+  ],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/yurt-full.webp",
+  "partId": "overview_full",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/yurt-frame.webp",
+  "partId": "overview_frame",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [],
+  "rendered": "2026-10-22"
+ },
+ {
+  "file": "images/yurt-parts/yurt-interior.webp",
+  "partId": "overview_interior",
+  "kind": "digital reconstruction",
+  "notAPhotograph": true,
+  "generator": "scripts/render_yurt_parts.py (Blender Workbench)",
+  "model": "models/kazakh-yurt-17-18-typological.glb",
+  "highlighted": [],
+  "rendered": "2026-10-22"
+ }
+]
